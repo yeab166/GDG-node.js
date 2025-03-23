@@ -1,1 +1,15 @@
-a
+{
+  "name": "gdg_nodejs",
+  "version": "1.0.0",
+  "description": "nodejs with lodash",
+  "main": "index.js",
+  "scripts": {
+    "calculate": "node index.js"
+  },
+  "author": "Yeabsira",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
+
